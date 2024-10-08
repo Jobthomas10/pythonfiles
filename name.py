@@ -1,7 +1,7 @@
 '''
 Author: Job Thomas Cherian
 Date:08/10/2024
-Simple desktop calculator using Python. Only the five basic arithmetic operators.
+sub-string that consists of the last name only. 
 '''
 first_name="job"
 last_name="thomas"
