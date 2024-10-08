@@ -1,3 +1,9 @@
+'''
+Author:Job Thomas Cherian
+Date:08/10/2024
+program of date and time
+'''
+
 from datetime import datetime
 current=datetime.now()
 print(current)
